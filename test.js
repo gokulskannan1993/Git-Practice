@@ -1,5 +1,4 @@
-console.log("This is an additional message.");
-console.log("Replacement code goes here.");
+console.log("Hello, world!");
 
 
 // This is a test file to demonstrate code replacement.
