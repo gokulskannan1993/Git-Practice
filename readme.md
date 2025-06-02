@@ -1,6 +1,6 @@
 # Hello There
 
-Welcome to the project!  
+We're glad you're here!  
 This repository contains code and resources to help you get started.
 
 ## Getting Started
